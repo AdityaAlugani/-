@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Simpleapp</string>
+    <string name="click">Click</string>
+    <string-array name="sp_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Grey</item>
+    </string-array>
 </resources>
